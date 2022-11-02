@@ -1,9 +1,9 @@
-
+import Header from "../components/Header"
 
 export default function AddAlbum(){
     return(
         <>
-        <h1>Add Album Title HERE ....</h1>
+        <Header title={'Add new album'}/>
         <p> new Album List here</p>
         </>
     )

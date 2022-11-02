@@ -2,3 +2,29 @@
   text-align: center;
 }
 
+.header{
+  border: 2px solid red ;
+  margin:calc(1rem + 1vw) ;
+  
+  background-color: #ff000030;
+}
+
+.album-list{
+  border: 2px solid gold;
+  margin:calc(1rem + 1vw) ;
+  background-color: rgb(16, 13, 13);
+}
+.album-card{
+  border: 2px solid rgb(46, 45, 41);
+  margin:1rem  ;
+  background-color: darkgrey;
+}
+.album-title{
+ text-transform: uppercase;
+ color: #605040;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
